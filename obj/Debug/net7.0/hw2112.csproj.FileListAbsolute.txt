@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\hw2112\bin\Debug\net7.0\hw2112.exe
+C:\Users\Айвар\Desktop\hw2112\bin\Debug\net7.0\hw2112.deps.json
+C:\Users\Айвар\Desktop\hw2112\bin\Debug\net7.0\hw2112.runtimeconfig.json
+C:\Users\Айвар\Desktop\hw2112\bin\Debug\net7.0\hw2112.dll
+C:\Users\Айвар\Desktop\hw2112\bin\Debug\net7.0\hw2112.pdb
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.dll
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\refint\hw2112.dll
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.pdb
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\hw2112.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\hw2112\obj\Debug\net7.0\ref\hw2112.dll
